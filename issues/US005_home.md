@@ -9,6 +9,6 @@ les artistes enregistrés dans la plateforme et dans mon département.
 
 ## Critères d'acceptance
 
-- Affichage de la liste des artistes présent dans le département de l'utilisateur authentifié
+- Affichage de la liste des artistes présents dans le département de l'utilisateur authentifié
 - Si aucun artiste est présent, le message "Aucun artiste dans votre département" est affiché
 - Des placeholder ou un loader sont affichés pendant le temps que la liste soit récupérée du serveur

@@ -18,6 +18,7 @@ En tant qu'artiste, je peux m'inscrire sur l'application Private ShowCase
     - Nom d'artiste : Doit être unique dans l'application
     - Description : Ce champs est requis et représente la description courte pour un artiste
     - Tous les champs sont requis
+    - Le bouton 'Valider' est disable tant que tous les champs du formulaire ne sont pas valide
 
 - Navigation
     - Annuler : Retour vers la page d'accueil

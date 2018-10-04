@@ -16,6 +16,7 @@ En tant que visiteur, je peux m'inscrire sur l'application Private ShowCase
     - Ville : Champ autocomplete pour choisir une ville
     - CheckBox artiste : ne doit pas être cochée
     - Tous les champs sont requis à l'execption de la checkbox
+    - Le bouton 'Valider' est disable tant que tous les champs du formulaire ne sont pas valide
 
 - Navigation
     - Annuler : Retour vers la page d'accueil

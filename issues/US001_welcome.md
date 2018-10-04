@@ -3,7 +3,7 @@
 ## Description
 
 En tant que visiteur, je navigue sur l'application Private ShowCase, une page de présentation de
-l'application m'est affiché. Depuis cette page, je peux m'inscrire et m'authentifier.
+l'application m'est affichée. Depuis cette page, je peux m'inscrire et m'authentifier.
 
 ![Welcome Page](../design/export_screens/Welcome.png)
 

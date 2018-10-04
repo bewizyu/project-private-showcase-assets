@@ -20,3 +20,4 @@ En tant qu'artiste, je souhaite afficher et/ou modifier les informations concern
     - Téléphone
     - listes de départements dans lequel l'artiste est disponible pour un concert
     -  Au click sur le bouton Sauvegarder les informations saisies seront persistées en base
+    - Le bouton 'Sauvegarder' est disable tant que tous les champs du formulaire ne sont pas valide

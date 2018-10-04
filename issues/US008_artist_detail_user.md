@@ -18,3 +18,7 @@ En tant qu'utilisateur, je souhaite afficher la page de détail d'un artiste
     - Adresse
     - Téléphone
     - listes de départements dans lequel l'artiste est disponible pour un concert
+
+- Au click sur le site web, ouverture du site dans un nouvel onglet ou une nouvelle page
+
+- Bonus : Au click sur l'addresse, ouverture de Google Maps avec l'adresse renseignée
